@@ -1,0 +1,4 @@
+Mina Git-anteckningar
+
+Första ändringen: skriv vad du vill lära dig om Git här.
+Andra ändringen: ändra den här texten och kontrollera git status.
